@@ -1,3 +1,7 @@
+---
+title: "README"
+---
+
 # My Docs Site
 
 A Docusaurus-powered documentation site that publishes to GitHub Pages.
