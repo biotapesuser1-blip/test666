@@ -1,0 +1,20 @@
+/* Override Docusaurus theme variables here. */
+:root {
+  --ifm-color-primary: #5a4fcf;
+  --ifm-color-primary-dark: #4a40bf;
+  --ifm-color-primary-darker: #4339af;
+  --ifm-color-primary-darkest: #3a31a0;
+  --ifm-color-primary-light: #6a5fd8;
+  --ifm-color-primary-lighter: #7a6fe0;
+  --ifm-color-primary-lightest: #8a7fe8;
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #8a7fe8;
+  --ifm-color-primary-dark: #7a6fe0;
+  --ifm-color-primary-darker: #6a5fd8;
+  --ifm-color-primary-darkest: #5a4fcf;
+  --ifm-color-primary-light: #9a8ff0;
+  --ifm-color-primary-lighter: #aa9ff8;
+  --ifm-color-primary-lightest: #baaffe;
+}
